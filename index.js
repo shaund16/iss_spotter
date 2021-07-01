@@ -59,3 +59,5 @@ nextISSTimesForMyLocation((error, passTimes) => {
 
 //   console.log('It worked! Returned IP:' , ip);
 // });
+
+module.exports = { printPassTimes };
